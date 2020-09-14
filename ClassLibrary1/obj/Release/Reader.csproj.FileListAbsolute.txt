@@ -1,0 +1,5 @@
+D:\TestApp\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\TestApp\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\TestApp\ClassLibrary1\obj\Release\Reader.csprojResolveAssemblyReference.cache
+D:\TestApp\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\TestApp\ClassLibrary1\obj\Release\ClassLibrary1.pdb

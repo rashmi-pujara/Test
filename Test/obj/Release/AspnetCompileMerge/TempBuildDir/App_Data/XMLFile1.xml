@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product>
+    <ProductId>1</ProductId>
+    <ProductName>Generic Mouse</ProductName>
+    <ProductCost>300.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <ProductName>Bluetooth Mouse</ProductName>
+    <ProductCost>750.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>Generic Keyboard</ProductName>
+    <ProductCost>500.00</ProductCost>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <ProductName>Generic Hard Drive</ProductName>
+    <ProductCost>1000.00</ProductCost>
+  </Product>
+</Products>
